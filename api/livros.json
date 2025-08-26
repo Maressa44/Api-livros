@@ -1,0 +1,21 @@
+[
+    {
+        "id" : 1,
+        "titulo" : "Senhor dos Anéis",
+        "autor": "J.R.R Tolkien",
+        "imagem": "/imagens/sociedade.webp"    
+    },
+    
+    {
+        "id": 2,
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "imagem": "/imagens/1984.webp"
+    },
+    {
+        "id": 3,
+        "titulo": "Dom Quixote",
+        "autor": "Miguel de Cervantes",
+        "imagem": "/imagens/dom.jpg"
+    }
+]
